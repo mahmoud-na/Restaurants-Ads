@@ -1,0 +1,258 @@
+{
+  "restaurantId": 20010,
+  "restaurantName": "Balba3",
+  "restaurantPhones": [
+    "01151742505",
+    "01023104355"
+  ],
+  "branches": [
+    {
+      "branchId": 1,
+      "branchLocation": "new cairo",
+      "branchAddress": "new giza",
+      "branchStatus": true,
+      "branchPhone": [
+        "123456789",
+        "1122334455",
+        "99887766554"
+      ],
+      "services": [
+        {
+          "serviceId": 1,
+          "serviceName": "Wifi",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 2,
+          "serviceName": "Open-Air",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 3,
+          "serviceName": "Playstation",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 4,
+          "serviceName": "Massage",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 5,
+          "serviceName": "Spa",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        }
+      ],
+      "offers": [
+        {
+          "offerId": 1,
+          "offerTitle": "3aaaard el komboooo",
+          "offerDescription": "%od talata we 5oood wa7ed kman",
+          "offerStart": "2022-05-30T12:11:05.000+00:00",
+          "offerEnd": "2022-05-30T12:11:05.000+00:00",
+          "offerImages": [
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+          ]
+        },
+        {
+          "offerId": 2,
+          "offerTitle": "3aaaard el komboooo",
+          "offerDescription": "%od talata we 5oood wa7ed kman",
+          "offerStart": "2022-05-30T12:11:05.000+00:00",
+          "offerEnd": "2022-05-30T12:11:05.000+00:00",
+          "offerImages": [
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+          ]
+        },
+        {
+          "offerId": 3,
+          "offerTitle": "3aaaard el komboooo",
+          "offerDescription": "5od talata we 5oood wa7ed kman",
+          "offerStart": "2022-05-30T12:11:05.000+00:00",
+          "offerEnd": "2022-05-30T12:11:05.000+00:00",
+          "offerImages": [
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+          ]
+        }
+      ]
+    },
+    {
+      "branchId": 2,
+      "branchLocation": "new giza",
+      "branchAddress": "new giza",
+      "branchStatus": true,
+      "branchPhone": [
+        "3578951",
+        "1598753",
+        "456987"
+      ],
+      "services": [
+        {
+          "serviceId": 2,
+          "serviceName": "Open-Air",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 3,
+          "serviceName": "Playstation",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 5,
+          "serviceName": "Spa",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        }
+      ],
+      "offers": [
+        {
+          "offerId": 1,
+          "offerTitle": "3aaaard el komboooo",
+          "offerDescription": "%od talata we 5oood wa7ed kman",
+          "offerStart": "2022-05-30T12:11:05.000+00:00",
+          "offerEnd": "2022-05-30T12:11:05.000+00:00",
+          "offerImages": [
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+          ]
+        }
+      ]
+    },
+    {
+      "branchId": 3,
+      "branchLocation": "new october",
+      "branchAddress": "new giza",
+      "branchStatus": true,
+      "branchPhone": [
+        "258963",
+        "456987",
+        "13365444"
+      ],
+      "services": [
+        {
+          "serviceId": 1,
+          "serviceName": "Wifi",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 3,
+          "serviceName": "Playstation",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        },
+        {
+          "serviceId": 4,
+          "serviceName": "Massage",
+          "serviceLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+        }
+      ],
+      "offers": [
+        {
+          "offerId": 1,
+          "offerTitle": "3aaaard el komboooo",
+          "offerDescription": "%od talata we 5oood wa7ed kman",
+          "offerStart": "2022-05-30T12:11:05.000+00:00",
+          "offerEnd": "2022-05-30T12:11:05.000+00:00",
+          "offerImages": [
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+          ]
+        },
+        {
+          "offerId": 3,
+          "offerTitle": "3aaaard el komboooo",
+          "offerDescription": "5od talata we 5oood wa7ed kman",
+          "offerStart": "2022-05-30T12:11:05.000+00:00",
+          "offerEnd": "2022-05-30T12:11:05.000+00:00",
+          "offerImages": [
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+            "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+          ]
+        }
+      ]
+    }
+  ],
+  "restaurantImages": [
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+  ],
+  "restaurantMenuImages": [
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+    "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+  ],
+  "restaurantLogoImage": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+  "restaurantCoverImage": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+  "restaurantOpeningTime": "14:11:05",
+  "restaurantClosingTime": "14:11:05",
+  "restaurantDescription": "El burgraya el 4a2ya el kombo large Burger",
+  "restaurantHotline": "3333",
+  "restaurantViewers": 5000,
+  "categories": [
+    {
+      "categoryId": 1,
+      "categoryName": "Akl sory",
+      "categoryLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Akl Masry",
+      "categoryLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Akl italy",
+      "categoryLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Akl saudi",
+      "categoryLogo": "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+    }
+  ],
+  "news": [
+    {
+      "newId": 1,
+      "newTittle": "5asm 50% 3la el kebda el kelaby ",
+      "newDescription": "5ooood wa7d kebda taaaaa5od wa7ed tany 3aleeeeh",
+      "newDate": "2022-05-30T12:11:05.000+00:00",
+      "newImages": [
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+      ]
+    },
+    {
+      "newId": 2,
+      "newTittle": "5asm 50% 3la el kebda el kelaby ",
+      "newDescription": "5ooood wa7d kebda taaaaa5od wa7ed tany 3aleeeeh",
+      "newDate": "2022-05-30T12:11:05.000+00:00",
+      "newImages": [
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+      ]
+    },
+    {
+      "newId": 3,
+      "newTittle": "5asm 50% 3la el kebda el kelaby ",
+      "newDescription": "5ooood wa7d kebda taaaaa5od wa7ed tany 3aleeeeh",
+      "newDate": "2022-05-30T12:11:05.000+00:00",
+      "newImages": [
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank",
+        "https://stackoverflow.com/questions/26860418/bean-validation-collection-of-string-not-blank"
+      ]
+    }
+  ]
+}
