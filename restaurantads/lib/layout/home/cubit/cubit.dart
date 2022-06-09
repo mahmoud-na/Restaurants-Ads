@@ -3,6 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:restaurantads/layout/home/cubit/states.dart';
+import 'package:restaurantads/models/home_model.dart';
 import 'package:restaurantads/modules/home/home_screen.dart';
 import 'package:restaurantads/modules/news/news_screen.dart';
 import 'package:restaurantads/modules/offers/offers_screen.dart';
@@ -15,7 +16,7 @@ class HomeCubit extends Cubit<HomeStates> {
   static HomeCubit get(context) => BlocProvider.of(context);
   int currentIndex = 0;
   List<Widget> screensList = [
-     HomeScreen(),
+    HomeScreen(),
     const OfferScreen(),
     const NewsScreen(),
     const SettingsScreen(),
@@ -42,12 +43,16 @@ class HomeCubit extends Cubit<HomeStates> {
 
   List<dynamic> homeData = [];
 
+  HomePageData? homeModel;
+
   void getHomeData() {
     emit(LoadingState());
     DioHelper.getData(url: "api/restaurants/v1/").then((value) {
-      homeData = value.data;
-      print(homeData[1]['restaurantDescription']);
-      print(homeData.length);
+      homeModel = HomePageData.fromJson(value.data);
+      print(homeModel!.restaurants.length);
+      // homeData = value.data;
+      // print(value.data);
+      // print(homeData.length);
       emit(GetHomeDataSuccessState());
     }).catchError((onError) {
       print(onError.toString());

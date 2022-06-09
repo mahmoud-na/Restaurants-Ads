@@ -74,8 +74,11 @@ class MyApp extends StatelessWidget {
                 elevation: 0.0,
               ),
               bottomNavigationBarTheme: const BottomNavigationBarThemeData(
-                type: BottomNavigationBarType.fixed,
+                type: BottomNavigationBarType.shifting,
                 selectedItemColor: Colors.deepOrange,
+                unselectedItemColor: Colors.grey,
+                showUnselectedLabels: true,
+
                 elevation: 30.0,
               ),
               floatingActionButtonTheme: const FloatingActionButtonThemeData(
